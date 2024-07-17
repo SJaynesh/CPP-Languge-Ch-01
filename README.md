@@ -7,7 +7,7 @@
   <br>
  
   > * History of c++ language is interesting to know. Here we are going to discuss brief history of c++ language.
-  > * C++ programming language was developed in 1980 by Bjarne Stroustrup at bell laboratories of AT&T (American Telephone & Telegraph), located in U.S.A.
+  > * C++ programming language was developed in 1979 by Bjarne Stroustrup at bell laboratories of AT&T (American Telephone & Telegraph), located in U.S.A.
   >
   >     *  Bjarne Stroustrup is known as the founder of C++ language.
   >     *  It was develop for adding a feature of OOP(Object Oriented Programming)in C without significantly changing the C component.  
